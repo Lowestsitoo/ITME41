@@ -1,0 +1,95 @@
+<style>
+
+#containerimg{
+    background-position: center;
+    background-image: url("/image/painting.png");
+
+}
+#containimg{
+        align-content: center;
+        border-style: outset;
+}
+#address
+{
+position: absolute;
+font-weight: bold;
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 15px;
+color: #FF473A
+}
+
+#retrospec
+{
+margin-top: 10px;
+margin-left: 10px;
+left: 13px;
+top: calc(50% - 12px/2 - 60px);
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 12px;
+display: flex;
+align-items: center;
+color: #979797;
+
+}
+    #dorla
+{
+margin-left: 10px;
+left: 13px;
+top: calc(50% - 72px/2 - 20px);
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+
+color: #000000;
+}
+    #date
+{
+margin-top: 5px;
+margin-left:5px;
+left: 13px;
+top: calc(50% - 36px/2 + 32px);
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+display: flex;
+align-items: center;
+
+color: #FF473A;
+
+}
+
+#floor{
+    margin-top: 5px;
+margin-left:5px;
+left: 13px;
+    font-size: 14px;
+    font-family: Montserrat;
+}
+#cencon{
+    margin-left:5px;
+}
+#dropd{
+   
+position: relative;
+  display: inline-block;
+}
+#topnav{
+    color:#FF473A;
+    border-color: #FF473A;
+}
+
+
+
+</style>
